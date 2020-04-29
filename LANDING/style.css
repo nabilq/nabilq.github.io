@@ -10,12 +10,15 @@
   margin-right:10px;
 }
 
+.navbar-collapse{
+  margin-left:120px
+}
 
 
 
 .header{
   height: 60px;
-  margin-left:120px;
+  margin-left:110px;
   margin-top:-10px;
   margin-bottom: -8px;
   padding-top: 20px;
@@ -27,7 +30,6 @@
   font-family: Georgia, serif;
 
 }
-
 
 
 
